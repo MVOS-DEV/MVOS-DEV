@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=MVOS-DEV+%2F+MATHEUS+VINICIUS" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9F%92%BB+Desenvolvedor+FullStack+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&width=435&lines=%F0%9F%92%BB+Desenvolvedor+FullStack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 Sou estudante de Ciência da Computação, apaixonado por tecnologia e pelo desenvolvimento de soluções criativas e eficientes. Tenho experiência em programação com C e Python, além de atuar no desenvolvimento web utilizando HTML, CSS, JavaScript e PHP. Estou sempre em busca de aprender novas ferramentas, explorar diferentes áreas da computação e contribuir com projetos que possam gerar impacto positivo. Meu objetivo é transformar ideias em código e evoluir constantemente como profissional na área de tecnologia.
 
