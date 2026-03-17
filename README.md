@@ -160,16 +160,5 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e pelo dese
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVOS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
- 
-</p>
+### 📊 Projetos
 
